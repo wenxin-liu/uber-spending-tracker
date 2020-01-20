@@ -1,0 +1,10 @@
+mode: atomic
+github.com/wenxin-liu/bank-statement/bank_statement.go:22.59,23.19 1 4
+github.com/wenxin-liu/bank-statement/bank_statement.go:28.3,31.17 4 3
+github.com/wenxin-liu/bank-statement/bank_statement.go:34.3,43.16 7 1
+github.com/wenxin-liu/bank-statement/bank_statement.go:23.19,26.4 2 1
+github.com/wenxin-liu/bank-statement/bank_statement.go:31.17,33.4 1 2
+github.com/wenxin-liu/bank-statement/bank_statement.go:46.35,47.17 1 3
+github.com/wenxin-liu/bank-statement/bank_statement.go:47.17,49.3 1 1
+github.com/wenxin-liu/bank-statement/bank_statement.go:49.8,61.3 7 2
+github.com/wenxin-liu/bank-statement/bank_statement.go:64.13,68.2 3 0
